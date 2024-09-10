@@ -1,0 +1,12 @@
+{
+  "name": "remix.init",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@architect/utils": "^4.0.4",
+    "@npmcli/package-json": "^5.0.0",
+    "inquirer": "^8.2.6",
+    "semver": "^7.6.0"
+  }
+}
