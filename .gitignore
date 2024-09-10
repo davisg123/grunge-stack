@@ -8,6 +8,9 @@ yarn.lock
 
 node_modules
 
+.cache
+
+/build
 /public/build
 /server/index.mjs
 /server/index.mjs.map

@@ -7,7 +7,7 @@ import * as path from "node:path";
 
 import { logDevReady } from "@remix-run/node";
 
-const buildPath = "server/index.mjs";
+const buildPath = "build/server/index.mjs";
 
 let lastTimeout;
 
